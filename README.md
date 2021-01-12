@@ -7,7 +7,7 @@ Instalar los paquetes y dependencias:
 
 ## Ejecución
 
-> npm install
+> php artisan serve
 
 
 ## Endpoint
