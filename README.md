@@ -12,4 +12,4 @@ Instalar los paquetes y dependencias:
 
 ## Endpoint
 
-> http://localhost/api/v1/albums?q=<band-name>
+```http://localhost/api/v1/albums?q=<band-name>```
